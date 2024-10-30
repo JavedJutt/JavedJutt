@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavedJutt
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently working MERN and cloud services.
 - 📫 You can reach me at my personal email javaedjutt33@gmail.com
 
 <!---
